@@ -1,7 +1,7 @@
-## Hi, I'm Jessica Slaven
+## Hi, I'm Jessica :wave:
 
--I'm an aspiring Data Scientist <br />
--I'm currently learning about Machine Learning <br />
+-I'm an aspiring Data Scientist :computer:  
+-I'm currently learning about Machine Learning  
 -
 <!--
 **jessicaslaven/jessicaslaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
