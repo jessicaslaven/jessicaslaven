@@ -1,5 +1,7 @@
-## Hi, I'm Jessica :wave:
+# Hi, I'm Jessica :wave:
+Welcome to my GitHub profile! 
 
+## About Me   
 -I'm an aspiring Data Scientist, working to expand my knowledge :computer:  
 -Currently learning about Machine Learning 🌱  
 -Project Manager for an Electrical Utility :bulb: 🔌  
