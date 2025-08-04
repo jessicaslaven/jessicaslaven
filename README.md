@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 ## About Me   
 -I'm an aspiring Data Scientist, working to expand my knowledge :computer:  
--Currently learning about Machine Learning 🌱  
+-Currently diving into Machine Learning 🌱  
 -Project Manager for an Electrical Utility :bulb: 🔌  
 -Presently in pursuit of a degree in Data Science. My favorite class has been SQL! 💜
 
